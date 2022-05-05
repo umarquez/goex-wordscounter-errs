@@ -1,8 +1,8 @@
-# Go Bootcamp Ex. 2 - Words counter with funcs
+# Go Bootcamp Ex. 2 - Words counter with errs
 
-This project is the evolution of this Gist: [Words counter using maps](https://gist.github.com/umarquez/73644238ee17528277339eb5ca386efd)
+This project is the evolution of this Gist: [Words counter with funcs](https://github.com/umarquez/goex-wordscounter-funcs)
 
-Here, we are implementing funcs to separate code into functionalities.
+This application uses errors to identify and manage possible problems.
 
 ## Instructions to run
 
